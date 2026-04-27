@@ -9,6 +9,7 @@ layout: default
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Data
+My analysis
 <img src="static/imgs/image.png" alt=" first image of graph "  width="1000"/>
 
 ## This is a small header
